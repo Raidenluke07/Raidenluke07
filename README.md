@@ -1,7 +1,7 @@
 ### Hi there 👋 raiden luke
- - 🌱 I’m currently learning AI and DATA SCIENCE
+ - 🌱Software developer (JAVA)
   
- - 📫 How to reach me: raidenluke.b.2020.ad@ritchennai.edu.in
+ - 📫 How to reach me: raidenluke.b@gmail.com
 
 - 🚀 Join me as I navigate through the fascinating world of algorithms, machine learning models, and data insights.
 
@@ -16,4 +16,4 @@
 - 📚 In this vast ocean of information, every conversation is a chance to learn something new. Whether you're a seasoned professional or just starting out, I believe that together we can contribute to the 
      collective intelligence that propels technology forward.
 
-- 🌐 Join me on this exciting expedition as we navigate the frontiers of AI and Data Science. Your insights and experiences are not only welcome but essential in this collaborative voyage.
+  
